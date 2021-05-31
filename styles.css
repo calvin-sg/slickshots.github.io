@@ -22,7 +22,11 @@ img{
 .social-icon-bar a:hover {
     background-color: #000;
 }
-.instagram { /* Style the social media icons with color */
+.fish { /* Style the social media icons with color */
+	background: #1abdce; 
+	color: white;
+}
+.instagram { 
     background: #125688;
     color: white;
 }
