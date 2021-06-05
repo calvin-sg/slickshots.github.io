@@ -22,6 +22,10 @@ img{
 .social-icon-bar a:hover {
     background-color: #000;
 }
+.battleship {
+    background: #000080;
+    color: white;
+}
 .fish { /* Style the social media icons with color */
 	background: #1abdce; 
 	color: white;
